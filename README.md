@@ -1,7 +1,5 @@
 # COSPORT
 
-https://cosport.herokuapp.com/
-
 ## À propos 
 
 Cosport est une application en ligne permettant de creer ou de trouver des rendez-vous centrés sur le sport. 
